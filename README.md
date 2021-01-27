@@ -1,1 +1,1 @@
-# simpleNGO.github.io
+# simplengo.github.io
